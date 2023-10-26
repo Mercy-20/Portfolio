@@ -77,7 +77,7 @@
 }
 
 /* spacing on all sections */
-#about, #skills, #portfolio, #contact {
+#about, #skills, #projects, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }
