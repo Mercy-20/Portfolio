@@ -6,5 +6,5 @@ Website contains:
 Home, 
 About Me, 
 Skills, 
-Portfolio, and 
+Projects, and 
 Contact 
